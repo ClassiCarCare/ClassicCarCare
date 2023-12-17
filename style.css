@@ -110,7 +110,7 @@ input[type="radio"]:focus {
     color: #fff;
 }
 .section-heading h2::after {
-    background-image: url("img/bg/section-border.png");
+    background-image: url("./section-border.png");
     bottom: 0;
     content: "";
     height: 3px;
@@ -123,7 +123,7 @@ input[type="radio"]:focus {
     right: 0;
 }
 .section-heading.light h2::after {
-    background-image: url("img/bg/section-border-light.png");
+    background-image: url("./section-border-light.png");
     right: 0;
 }
 .section-heading.no-margin h2 {
@@ -602,12 +602,12 @@ p.error {
     padding: 200px 0;
 }
 .slide-1 {
-    background-image: url("img/slider/2.jpg");
+    background-image: url("./2.jpg");
     -webkit-background-size: cover;
     background-size: cover;
 }
 .slide-2 {
-    background-image: url("img/slider/1.jpg");
+    background-image: url("./1.jpg");
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -875,7 +875,7 @@ p.error {
 /*========================================*/
 
 .service-area {
-    background: rgba(0, 0, 0, 0) url("img/bg/service-bg.jpg") no-repeat scroll center center;
+    background: rgba(0, 0, 0, 0) url("./service-bg.jpg") no-repeat scroll center center;
 }
 .single-service {
     margin-top: 100px;
@@ -942,7 +942,7 @@ p.error {
 .shop-tab li.active a::before,
 .shop-details-tab-bar li.active a::after,
 .shop-details-tab-bar li.active a::before {
-    background-image: url("img/product/tab-active.png");
+    background-image: url("./tab-active.png");
     background-repeat: no-repeat;
     content: "";
     height: 8px;
@@ -1080,7 +1080,7 @@ p.error {
 /*========================================*/
 
 .features-area {
-    background-image: url(img/bg/features-bg.jpg);
+    background-image: url(./features-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1179,7 +1179,7 @@ p.error {
 
 .testimonial-area {
     background-color: #fff;
-    background-image: url("img/b52bbf17929c8da830fed3f2705d123c.jpg");
+    background-image: url("./b52bbf17929c8da830fed3f2705d123c.jpg");
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1437,7 +1437,7 @@ a.book-now-btn:hover {
 .page-title-area {
     padding: 150px 0px;
     margin-top: 170px;
-    background-image: url(img/bg/page-bg.jpg);
+    background-image: url(./page-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -1465,7 +1465,7 @@ a.book-now-btn:hover {
     text-decoration: underline;
 }
 .page-title-area.bg-pattern {
-    background-image: url(img/bg/pattern.png);
+    background-image: url(./pattern.png);
     background-repeat: repeat;
 }
 .page-title h2 {
